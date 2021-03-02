@@ -1,4 +1,4 @@
-// user161020 || PA55w0rld
+
 const express = require('express')
 const mongoose = require('mongoose')
 const passport = require('passport')
